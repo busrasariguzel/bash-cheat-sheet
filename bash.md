@@ -39,5 +39,9 @@ Lists the files.
     * You can rename a file by having its "destination" be a new filename. 
     *  
  
- command -v git 
+ ### `pwd`
+
+ * Usage: `pwd`
+ * What it does:prints working directory.
+ * 
 
