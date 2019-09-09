@@ -44,4 +44,14 @@ Lists the files.
  * Usage: `pwd`
  * What it does:prints working directory.
  * 
+---
+---
+---
+
+### `mkdir`
+
+* Usage: [directory name]
+* What it does: makes a directory
+* Useful flags:
+    *  `-p` : makes parent directories given a path. 
 
